@@ -12,15 +12,15 @@
   
   第一种图标：
   
-![5diary](https://github.com/mengyingchina/5diary_chrome/blob/master/5diary/Timemachine_128.png)
+![5diary](https://github.com/mengyingchina/5diary_chrome/raw/master/5diary/Timemachine_128.png)
 	
-[**下载 5diary.crx**](https://github.com/mengyingchina/5diary_chrome/blob/master/5diary.crx)
+[**下载 5diary.crx**](https://github.com/mengyingchina/5diary_chrome/raw/master/5diary.crx)
 
   第二种图标：
   
-![5diarydotcom](https://github.com/mengyingchina/5diary_chrome/blob/master/5diarydotcom/5diary_128.jpg)
+![5diarydotcom](https://github.com/mengyingchina/5diary_chrome/raw/master/5diarydotcom/5diary_128.jpg)
 
-[**下载 5diarydotcom.crx**](https://github.com/mengyingchina/5diary_chrome/blob/master/5diarydotcom.crx)
+[**下载 5diarydotcom.crx**](https://github.com/mengyingchina/5diary_chrome/raw/master/5diarydotcom.crx)
 
 
 #### 安装
