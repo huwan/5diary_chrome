@@ -20,7 +20,7 @@
 
 #### 安装
 
-  + **[下载](http://abc.com)**以 crx 为后缀的扩展应用，并将其拖拽到 Chrome 浏览器中，按照提示安装即可。
+  + 下载以上面以“crx“为后缀的扩展应用，并将其拖拽到 Chrome 浏览器中，按照提示安装即可。
   
   + 如果浏览器提示 “ **Chrome只可添加来自“网上应用商店”的扩展程序、应用程序和用户脚本** ”，则需要通过以下方法安装： 
     1. 访问 chrome://chrome/extensions/ 页面，或者点击Chrome右上角的扳手图标，选择工具->扩展程序，打开扩展程序；
@@ -34,7 +34,7 @@
     
 #### 想自己也写个？
 	写这个其实很简单。一个简单的网页“大图标书签“的源代码你可以参考文件夹下的代码。其实就是准备两个不同大小的图标(一般是16\*16,128\*128 )用于显示，然后照着这个[manifest.json](https://github.com/mengyingchina/5diary_chrome/blob/master/5diary/manifest.json) 修改为你想写的网站信息即可。
-     更多请参考[Google Developers](https://developers.google.com/chrome/web-store/)上面的文档.
+     更多请参考[Google Developers](https://developers.google.com/chrome/web-store/docs/get_started_simple)上面的文档.
 
 ### 更多的说明
   本扩展应用只是看到Chrome浏览器中许多应用都只是一个大图标的书签而已（我是想说很水，不过吧还是挺有用的），就参照官方教程写了这个扩展程序。因为没有Chrome web store的开发者帐号（收费的说），这个程序不能放到官方应用商店上，因为只是玩玩，所以也就这样吧。
