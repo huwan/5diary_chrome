@@ -1,0 +1,26 @@
+{
+"name": "吾志",
+"version": "1.0",
+"manifest_version": 2,
+
+"description": "吾志是一个注重隐私、简单轻快的日记本。",
+
+"icons": {
+"16": "Timemachine_16.png",
+"128": "Timemachine_128.png"
+},
+
+"app": {
+"urls": [
+"http://www.5diary.com"
+],
+"launch": {
+"web_url": "http://www.5diary.com"
+}
+},
+
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
