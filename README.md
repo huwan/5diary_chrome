@@ -5,7 +5,7 @@
 
 其实，它就是一个大图标的书签。你可以在Chrome 浏览器打开新标签页面的应用程序中看到应用图标。
 
-先睹为快( http://assets4.pinimg.com/upload/180918110002042340_XROY5Fre.jpg )。
+先睹为快( http://img1.douban.com/view/group_topic/large/public/32723095-1.jpg )。
 
 ### 如何使用
 -------------
